@@ -47,7 +47,7 @@ Developed a modern Android mobile application to enhance the public transport ex
 ## 📬 Contact
 📩 **Hamza Ben Ayed**  
 📌 [LinkedIn](https://www.linkedin.com/in/hamza-ben-ayed-307ab223b/)  
-📧 Email: hamza.ben.ayed@example.com
+📧 Email: hamzabenayed2000@gmail.com
 
 ---
 🔹 *This project is open-source. Contributions and suggestions are welcome!* 🚀
