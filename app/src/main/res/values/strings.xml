@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mustNotBeEmpty">This field must not be empty</string>
+</resources>
